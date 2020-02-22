@@ -1,2 +1,2 @@
 # portfolio
-This is a repository for portfolio
+This is repository for portfolio.
